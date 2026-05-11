@@ -1,0 +1,23 @@
+```csv
+officer,branch,customer,loan_id,expected_payment,actual_payment,due_date,payment_date,status
+John,Nairobi,Alice Wanjiru,LN001,50000,47000,2026-05-05,2026-05-08,Late
+Mary,Nakuru,Bob Kiptoo,LN002,62000,62000,2026-05-05,2026-05-05,Paid
+Alex,Eldoret,Chris Otieno,LN003,45000,40000,2026-05-06,2026-05-10,Late
+Jane,Kisumu,Diana Atieno,LN004,70000,69000,2026-05-06,2026-05-06,Paid
+Brian,Mombasa,Evans Mwangi,LN005,55000,52000,2026-05-07,2026-05-09,Late
+John,Nairobi,Faith Njeri,LN006,48000,48000,2026-05-07,2026-05-07,Paid
+Mary,Nakuru,George Maina,LN007,61000,59000,2026-05-08,2026-05-11,Late
+Alex,Eldoret,Hellen Chebet,LN008,43000,43000,2026-05-08,2026-05-08,Paid
+Jane,Kisumu,Ian Odhiambo,LN009,75000,72000,2026-05-09,2026-05-12,Late
+Brian,Mombasa,Joyce Akinyi,LN010,52000,52000,2026-05-09,2026-05-09,Paid
+John,Nairobi,Kevin Kariuki,LN011,53000,50000,2026-05-10,2026-05-13,Late
+Mary,Nakuru,Lilian Wambui,LN012,60000,60000,2026-05-10,2026-05-10,Paid
+Alex,Eldoret,Martin Kiprotich,LN013,47000,45000,2026-05-11,2026-05-14,Late
+Jane,Kisumu,Nancy Achieng,LN014,68000,68000,2026-05-11,2026-05-11,Paid
+Brian,Mombasa,Oscar Mutua,LN015,56000,54000,2026-05-12,2026-05-15,Late
+John,Nairobi,Patricia Wairimu,LN016,51000,51000,2026-05-12,2026-05-12,Paid
+Mary,Nakuru,Quincy Bett,LN017,63000,61000,2026-05-13,2026-05-16,Late
+Alex,Eldoret,Ruth Jepchirchir,LN018,44000,44000,2026-05-13,2026-05-13,Paid
+Jane,Kisumu,Samuel Ouma,LN019,72000,70000,2026-05-14,2026-05-17,Late
+Brian,Mombasa,Teresa Nduta,LN020,54000,54000,2026-05-14,2026-05-14,Paid
+```
